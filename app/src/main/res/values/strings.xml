@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">ARbasic1</string>
-    <string name="show_model">Show Model</string>
+    <string name="bottle_image">bottle image</string>
+    <string name="pikachu_image">pikachu_image</string>
+    <string name="charmander_image">charmander_image</string>
+    <string name="bulba_image">bulba_image</string>
+    <string name="hello_world">Hello World!!</string>
 </resources>
